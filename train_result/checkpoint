@@ -1,0 +1,2 @@
+model_checkpoint_path: "H:\\GPpython\\Licence_plate_recognize\\train_result\\model.ckpt-29999"
+all_model_checkpoint_paths: "H:\\GPpython\\Licence_plate_recognize\\train_result\\model.ckpt-29999"
